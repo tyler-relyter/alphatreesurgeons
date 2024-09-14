@@ -1,0 +1,50 @@
+
+/*body {
+    background-image: url('../../img/tree_background.jpg');
+    background-size: 50%;
+    background-repeat: no-repeat;
+}*/
+
+#nav {
+    background-color: darkgreen;
+}
+
+#videoContainer {
+    position: relative;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-25%);
+    z-index: 1;
+}
+
+.scrollTop {
+    position: fixed;
+    bottom: 20px;
+    right: 140px;
+    opacity: 0;
+    transition: opacity 0.5s;
+    z-index: 1000;
+}
+
+.scrollTop.show {
+    opacity: 1;
+}
+
+.custom-link {
+    text-decoration: underline;
+    text-decoration-color: darkgreen;
+}
+
+.custom-link:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+#brad-image {
+    display: grid;
+    place-items: center;
+}

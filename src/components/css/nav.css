@@ -1,0 +1,29 @@
+#phone-link {
+    color: white;
+    text-decoration: none;
+}
+
+#phone-link:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+#fb-link {
+    color: white;
+    text-decoration: none;
+}
+
+#fb-link:hover {
+    color: rgb(40, 127, 228);
+    text-decoration: none;
+}
+
+#ig-link {
+    color: white;
+    text-decoration: none;
+}
+
+#ig-link:hover {
+    color: rgb(40, 127, 228);
+    text-decoration: none;
+}

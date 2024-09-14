@@ -1,0 +1,15 @@
+#saw {
+    max-width: 350px;
+    max-height: 350px;
+    color: white;
+    background-color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    #saw { 
+        max-width: 200px; 
+        max-height: 200px; 
+    } 
+}
+
+
