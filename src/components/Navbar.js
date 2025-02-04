@@ -31,9 +31,7 @@ const Navbar = () => {
                                 <div className="row text-sm-left">
                                     <p className="fs-2 mx-5"><a id="phone-link" href="tel:+19105208878">+1-910-520-8878</a></p>
                                 </div>
-                                <div className="row text-sm-left">
-                                    <p className="fs-2 mx-5"><a id="phone-link" href="tel:+19106028081">+1-910-602-8081</a></p>
-                                </div>
+
                             </div>
                         </div>
                         <div className="col-auto">
